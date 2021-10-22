@@ -3,12 +3,12 @@ Program to add all the numbers in the list using function
 """
 
 
-def sum_list(add):
+def sum_list(num):
     """
     Function to print all the numbers in the list
     """
     value = 0
-    for i in add:
+    for i in num:
         value = value + i
     return value
 
