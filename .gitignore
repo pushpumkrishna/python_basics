@@ -1,43 +1,8 @@
-# Byte-compiled / optimized / DLL files
-*__pycache__
-*.DS_Store
-*.vscode
-*.log
-*.py[cod]
-
-# C extensions
-*.so
-
 # Pycharm Extension
 .idea/
 
-# ignore downloaded files
-aiBackend/recommendation/utils/content_id_mapping/*.txt
-aiBackend/recommendation/utils/content_id_mapping/*.json
-
-# ignore downloaded files
-aiBackend/recommendation/utils/user_id_mapping/*.txt
-aiBackend/recommendation/utils/user_id_mapping/*.json
-
 data/
 
-# Distribution / packaging
-.Python
-env/
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-*.egg-info/
-.installed.cfg
-*.egg
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
