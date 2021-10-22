@@ -1,4 +1,6 @@
-"""Program to add all the numbers in the list using function"""
+"""
+Program to add all the numbers in the list using function
+"""
 
 
 def sum_list(add):
