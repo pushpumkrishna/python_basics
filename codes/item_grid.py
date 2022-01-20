@@ -16,7 +16,7 @@ def grid_maker(rows: int,
             if i == 0 or j == 5:
                 print(" ", end=" ")
             else:
-                print("| aaa | aaa | aaa |")
+                print(string)
                 if i == 3 or i == 6 or i == 10:
                     print("-" * 20)
 
