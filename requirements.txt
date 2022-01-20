@@ -5,3 +5,14 @@ numpy==1.19.5
 scikit-learn==0.24.2
 pandas==1.2.4
 
+# Flask and its extensions
+Flask==1.1.2
+Flask-Assets==0.12
+Flask-Cache==0.13.1
+Flask-DebugToolbar==0.10.0
+Flask-Login==0.4.0
+Flask-Script==2.0.5
+Flask-WTF==0.14
+flask_cors
+Flask-Caching==1.10.1
+
